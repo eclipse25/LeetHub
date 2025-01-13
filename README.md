@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/eclipse25/LeetHub/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/eclipse25/LeetHub/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/eclipse25/LeetHub/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/eclipse25/LeetHub/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/eclipse25/LeetHub/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/eclipse25/LeetHub/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/eclipse25/LeetHub/tree/master/2465-shifting-letters-ii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/eclipse25/LeetHub/tree/master/0494-target-sum) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/eclipse25/LeetHub/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Backtracking
 |  |
 | ------- |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/eclipse25/LeetHub/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+## Matrix
+|  |
+| ------- |
+| [2067-maximum-number-of-points-with-cost](https://github.com/eclipse25/LeetHub/tree/master/2067-maximum-number-of-points-with-cost) |
 <!---LeetCode Topics End-->
