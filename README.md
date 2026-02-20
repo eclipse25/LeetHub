@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0696-count-binary-substrings](https://github.com/eclipse25/LeetHub/tree/master/0696-count-binary-substrings) |
 | [0952-word-subsets](https://github.com/eclipse25/LeetHub/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/eclipse25/LeetHub/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/eclipse25/LeetHub/tree/master/1524-string-matching-in-an-array) |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2067-maximum-number-of-points-with-cost](https://github.com/eclipse25/LeetHub/tree/master/2067-maximum-number-of-points-with-cost) |
+## Two Pointers
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/eclipse25/LeetHub/tree/master/0696-count-binary-substrings) |
 <!---LeetCode Topics End-->
